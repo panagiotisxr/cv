@@ -37,4 +37,6 @@ h1, h3 {
     height: 100px;
 } 
 
-
+ol {
+    font:13px "Arial",san-serif;
+    }
