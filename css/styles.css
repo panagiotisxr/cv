@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(226, 226, 235);
+    background-color: white;
 
 }
 
@@ -14,11 +14,10 @@ hr {
 img {
     height: 180px;
 }
-h1{
+/* h1{
     text-shadow: 1px 1px 1px black;
-}
+} */
 
 h1, h3 {   
-     color: #66BFBF
+     color: #529494
 }
-
