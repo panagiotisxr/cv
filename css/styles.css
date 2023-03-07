@@ -38,5 +38,7 @@ h1, h3 {
 } 
 
 ol {
-    font:13px "Arial",san-serif;
+    font-size: 1rem;
+    line-height: 1.55;
+    font-weight: 500;
     }
