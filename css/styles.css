@@ -21,3 +21,32 @@ img {
 h1, h3 {   
      color: #529494
 }
+
+
+.pics{
+
+    display:flex;
+    
+    gap: 10px;
+    justify-content: center;
+    }
+
+
+.pics img {
+    width: 100px;
+    height: 100px;
+} 
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
